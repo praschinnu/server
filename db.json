@@ -1,0 +1,133 @@
+{
+  "videos": [
+    {
+      "id": 3,
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/Bn9KCwSk/Untitled7.jpg",
+      "video_url": "https://www.youtube.com/embed/1-xGerv5FOk?autoplay=1",
+      "caption": "Alone"
+    },
+    {
+      "id": "lo6udnpl",
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/fysxR2V6/faded.jpg",
+      "video_url": "https://www.youtube.com/embed/60ItHLz5WEA?autoplay=1",
+      "caption": "Faded"
+    },
+    {
+      "id": "lo6v7tm1",
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/C5ZWws2T/shape-of-you.jpg",
+      "video_url": "https://www.youtube.com/embed/waA9zyHGqR0?autoplay=1",
+      "caption": "shape of you"
+    },
+    {
+      "id": 4,
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/8zG3X0v9/beliver.jpg",
+      "video_url": "https://www.youtube.com/embed/eweY4_SQyDo?autoplay=1",
+      "caption": "Beliver"
+    },
+    {
+      "id": 5,
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/YS787Wt0/vengeance.jpg",
+      "video_url": "https://www.youtube.com/embed/QfIY1r0_tRI?autoplay=1",
+      "caption": "bibi vengeance"
+    },
+    {
+      "id": 6,
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/KYNhgxtb/maxresdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/lRVJuPI5IXI?autoplay=1",
+      "caption": "shinunoga e-wa"
+    },
+    {
+      "id": 7,
+      "Caption": "",
+      "cover_image": "https://i.postimg.cc/0j9VX7qJ/tomandjerry.jpg",
+      "video_url": "https://www.youtube.com/embed/zp7zPEKVF7I?autoplay=1",
+      "caption": "Tom & Jerry"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "cartoon",
+      "videos": [
+        {
+          "id": "lo6v7tm1",
+          "Caption": "",
+          "cover_image": "https://i.postimg.cc/C5ZWws2T/shape-of-you.jpg",
+          "video_url": "https://www.youtube.com/embed/waA9zyHGqR0?autoplay=1",
+          "caption": "shape of you"
+        },
+        {
+          "id": 7,
+          "Caption": "",
+          "cover_image": "https://i.postimg.cc/0j9VX7qJ/tomandjerry.jpg",
+          "video_url": "https://www.youtube.com/embed/zp7zPEKVF7I?autoplay=1",
+          "caption": "Tom & Jerry"
+        }
+      ]
+    },
+    {
+      "id": "lo8tvakb",
+      "name": "news",
+      "videos": [
+        {
+          "id": 3,
+          "Caption": "",
+          "cover_image": "https://i.postimg.cc/Bn9KCwSk/Untitled7.jpg",
+          "video_url": "https://www.youtube.com/embed/1-xGerv5FOk?autoplay=1",
+          "caption": "Alone"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "songs",
+      "videos": [
+        {
+          "id": 6,
+          "Caption": "",
+          "cover_image": "https://i.postimg.cc/KYNhgxtb/maxresdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/lRVJuPI5IXI?autoplay=1",
+          "caption": "shinunoga e-wa"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "video_title": "bibi vengeance",
+      "url": "https://www.youtube.com/embed/lRVJuPI5IXI?autoplay=1",
+      "date": "October 27 6th 2023 11:39 PM"
+    },
+    {
+      "id": "lobhzvng",
+      "video_title": "shape of you",
+      "url": "https://www.youtube.com/embed/waA9zyHGqR0?autoplay=1",
+      "date": "2023-10-29 6:49:37 PM"
+    },
+    {
+      "id": "lobi7y6a",
+      "video_title": "Faded",
+      "url": "https://www.youtube.com/embed/60ItHLz5WEA?autoplay=1",
+      "date": "2023-10-29 6:55:53 PM"
+    },
+    {
+      "id": "locke6jx",
+      "video_title": "Tom & Jerry",
+      "url": "https://www.youtube.com/embed/zp7zPEKVF7I?autoplay=1",
+      "date": "2023-10-30 12:44:30 PM"
+    },
+    {
+      "id": "locnewyc",
+      "video_title": "Faded",
+      "url": "https://www.youtube.com/embed/60ItHLz5WEA?autoplay=1",
+      "date": "2023-10-30 2:09:03 PM"
+    }
+  ]
+}
